@@ -2,4 +2,4 @@
 
 ## [Demo](https://hndrapratamaa.github.io/iNonton/)
 
-![Preview](https://hndrapratamaa/iNonton/resources/preview.png)
+![Preview](https://hndrapratamaa.github.io/iNonton/resources/preview.png)
